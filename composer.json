@@ -1,7 +1,7 @@
 {
-    "name": "pisc/reserved",
+    "name": "piscpr/reserved",
     "type": "metapackage",
-    "description": "Vendor namespace reservation. Real packages under pisc/* are not published to Packagist.",
+    "description": "Vendor namespace reservation. Real packages under piscpr/* are not published to Packagist.",
     "license": "MIT",
     "authors": [
         {
