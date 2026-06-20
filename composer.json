@@ -1,0 +1,13 @@
+{
+    "name": "pisc/reserved",
+    "type": "metapackage",
+    "description": "Vendor namespace reservation. Real packages under pisc/* are not published to Packagist.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noel Diaz",
+            "email": "noeldiaz@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
